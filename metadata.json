@@ -1,0 +1,8 @@
+{
+  "name": "AIdeaText Discovery conText",
+  "description": "A multimodal research assistant that builds argument graphs from text, audio, and video inputs, featuring a real-time conversational agent.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
